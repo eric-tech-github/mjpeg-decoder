@@ -247,7 +247,7 @@ begin
 --			sr_out(02) <= sr_in(05);	
 --			sr_out(03) <= sr_in(06);	
 --			sr_out(04) <= sr_in(14);	
---			sr_out(05) <= sr_in(17);	
+--			sr_out(05) <= sr_in(15);	
 --			sr_out(06) <= sr_in(27);	
 --			sr_out(07) <= sr_in(28);	
 --			sr_out(08) <= sr_in(02);	
@@ -313,7 +313,7 @@ begin
 			sr_out(16) <= sr_in(05);	
 			sr_out(24) <= sr_in(06);	
 			sr_out(32) <= sr_in(14);	
-			sr_out(40) <= sr_in(17);	
+			sr_out(40) <= sr_in(15);	
 			sr_out(48) <= sr_in(27);	
 			sr_out(56) <= sr_in(28);	
 			sr_out(01) <= sr_in(02);	
